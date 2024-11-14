@@ -1,0 +1,7 @@
+C:\Users\swag\source\repos\To Do App\obj\Debug\net8.0\To Do App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swag\source\repos\To Do App\obj\Debug\net8.0\To Do App.AssemblyInfoInputs.cache
+C:\Users\swag\source\repos\To Do App\obj\Debug\net8.0\To Do App.AssemblyInfo.cs
+C:\Users\swag\source\repos\To Do App\obj\Debug\net8.0\To Do App.csproj.CoreCompileInputs.cache
+C:\Users\swag\source\repos\To Do App\obj\Debug\net8.0\To Do App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\swag\source\repos\To Do App\obj\Debug\net8.0\To Do App.RazorAssemblyInfo.cache
+C:\Users\swag\source\repos\To Do App\obj\Debug\net8.0\To Do App.RazorAssemblyInfo.cs
